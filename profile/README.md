@@ -19,10 +19,9 @@
 ---
 <div align="center">
   
-<h1>@Walnusskeim⠀   ⠀@BrotRooti </h1>
+![Fahrgestell fast fertig um zumindest zu fahren v2](https://github.com/Ballin-Robotics/.github/assets/94301300/b897f52a-f07b-4c94-9d5a-ab3bacbbe146)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walnusskeim"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrotRooti"/>
+
 </div>
 
 
